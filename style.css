@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+p{
+    font-size: 1.5em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+    background-color: brown;
+    width: 400px;
+    height: 400px;
+}
